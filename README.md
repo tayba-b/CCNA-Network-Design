@@ -36,13 +36,21 @@ A complete simulation of a headquarters and branch office network with VLANs, OS
 VLAN Segmentation
 
 -- VLAN 10: Admin
+
 -- VLAN 20: HR
+
 -- VLAN 30: Sales
+
 -- VLAN 40: Finance
+
 -- VLAN 50: Admin (Branch)
+
 -- VLAN 60: HR (Branch)
+
 -- VLAN 70: Sales (Branch)
+
 -- VLAN 80: Finance (Branch)
+
 -- VLAN 90: Server Room
 
 Extended ACLs to control inter-VLAN traffic
