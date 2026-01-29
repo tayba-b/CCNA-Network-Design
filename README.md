@@ -2,7 +2,7 @@ Enterprise Headquarters & Branch Network Infrastructure
 
 📘 Overview
 
-This project demonstrates the design and implementation of a secure enterprise
+-This project demonstrates the design and implementation of a secure enterprise
 
 Headquarters–Branch network based on CCNA-level networking concepts.
 
