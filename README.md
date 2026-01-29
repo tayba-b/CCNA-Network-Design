@@ -52,3 +52,34 @@ A complete simulation of a headquarters and branch office network, featuring dep
 
 ## Configuration Highlights
 
+VLAN Segmentation
+
+-- Department-based VLANs for HQ and Branch (Admin, HR, Sales, Finance, Server Room)
+
+Inter-VLAN Routing
+
+-- Router-on-a-stick using sub-interfaces for each VLAN
+
+Dynamic Routing
+
+-- OSPF configured between HQ (Site A) and Branch (Site B)
+
+Port Security
+
+-- Enabled on all access ports with sticky MAC and violation restrict
+
+SSH Access Control
+
+-- SSH enabled on routers
+-- Restricted access via ACL for administrator PCs only
+
+DHCP and DNS
+
+-- DHCP server assigns IPs per VLAN
+-- DNS server resolves hostnames within the network
+
+Network Security
+
+-- VLAN isolation between departments and sites
+-- ACLs and port security enhance overall security
+
