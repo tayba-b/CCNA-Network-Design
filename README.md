@@ -48,6 +48,56 @@ A complete simulation of a headquarters and branch office network, featuring dep
 - SSH Remote Access with ACL  
 - DHCP and DNS Services  
 
+
+---
+
+## Screenshots
+
+### Port Security
+![Port Security Violation](screenshots/Port_Security_Violation.png)  
+![Port Security Config](screenshots/Port_Security_Config.png)
+
+### Routing Tables
+![Router1 Routing Table](screenshots/Router1_Routing_Table.png)  
+![Router2 Routing Table](screenshots/Router2_Routing_Table.png)
+
+### OSPF Neighbors
+![Router1 OSPF Neighbors](screenshots/Router1_OSPF_Neighbors.png)  
+![Router2 OSPF Neighbors](screenshots/Router2_OSPF_Neighbors.png)
+
+### SSH Configuration and Test
+![SSH Config](screenshots/SSH_Config.png)  
+![SSH Test](screenshots/SSH_Test.png)
+
+---
+
+## How to Use
+
+1. Open the Packet Tracer file `Network_Project.pkt` (to be placed in `/files/` folder).  
+2. Review the VLAN and routing configurations.  
+3. Verify port security, SSH access, and network services using the screenshots.  
+4. Test connectivity and access as shown in the provided screenshots.  
+
+---
+
+## Future Improvements
+
+- Apply ACLs to fully isolate traffic between sites and VLANs  
+- Add firewall rules for internet access  
+- Implement redundancy with HSRP or VRRP for high availability  
+
+---
+
+## Contributing
+
+Contributions are welcome. Open issues or pull requests for improvements, suggestions, or corrections.
+
+---
+
+## License
+
+MIT License
+
 ---
 
 ## Configuration Highlights
