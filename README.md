@@ -40,15 +40,17 @@ A complete simulation of a headquarters and branch office network featuring depa
 
 ---
 
-## Technologies Used
-
-- Cisco Packet Tracer  
-- VLANs and Subnetting  
-- Router-on-a-stick Inter-VLAN Routing  
-- OSPF Routing Protocol  
-- Port Security  
-- SSH Remote Access with ACL  
-- DHCP and DNS Services
+##  Technologies Used
+- Cisco Packet Tracer
+- VLANs and Subnetting
+- Router-on-a-Stick
+- Inter-VLAN Routing
+- OSPF Routing Protocol
+- Port Security
+- Access Control Lists (ACLs) for Traffic Restriction
+- DHCP Services
+- DNS Services
+- SSH for Secure Remote Access
 
 - ## Configuration Highlights
 
