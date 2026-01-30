@@ -1,6 +1,8 @@
 # Enterprise Network Project
 
-A complete simulation of a headquarters and branch office network, featuring department-based VLANs, inter-VLAN routing, OSPF dynamic routing, port security, SSH remote access, DHCP, and DNS services. The project demonstrates network design, configuration, and basic security measures in a professional enterprise environment.
+This project is part of my CCNA hands-on practice and demonstrates enterprise-level network design principles.
+
+A complete simulation of a headquarters and branch office network featuring department-based VLANs, inter-VLAN routing, OSPF dynamic routing, port security, SSH remote access, DHCP and DNS services. The project demonstrates network design, configuration, and basic security measures in a professional enterprise environment
 
 ---
 
